@@ -1,9 +1,1 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac justo id ex scelerisque cursus. Fusce lacinia euismod mi, vel dapibus arcu bibendum in. Sed in venenatis neque, a facilisis justo. Suspendisse id ex nec justo ultrices scelerisque. Vestibulum convallis, purus ac elementum volutpat, dui augue bibendum erat, id auctor sapien turpis et libero.
-
-Sed auctor feugiat tincidunt. In hac habitasse platea dictumst. Cras in ante vel eros gravida eleifend id eu tellus. Proin sed odio non mi rhoncus finibus. Nullam bibendum justo ac tortor rhoncus vulputate. Vivamus at nunc ac libero facilisis fermentum a at purus. Nam euismod massa vel metus sodales, ac gravida augue dignissim. Phasellus et ipsum non est posuere euismod ac in odio. Donec auctor libero ut metus facilisis, nec dictum felis pharetra.
-
-Pellentesque vel metus nec ligula scelerisque convallis non at ex. Vivamus eget mi vitae ipsum facilisis viverra. Aliquam nec lectus metus. Maecenas sagittis, lorem non auctor cursus, elit metus cursus sapien, et sollicitudin nunc risus id enim. Phasellus id tortor id arcu bibendum elementum a at felis. Praesent congue laoreet quam, at fermentum orci. Vestibulum ac volutpat orci, a laoreet purus.
-
-Duis ac sapien metus. Fusce at ante in libero condimentum ultrices. Vestibulum id lectus metus. Proin bibendum lectus a nisi mattis, eu cursus tortor posuere. Sed ac felis tincidunt, hendrerit urna a, lacinia orci. Integer fermentum ex id venenatis vehicula. Proin dictum risus vitae libero luctus, vel congue neque condimentum. Ut euismod eget nulla at consectetur. Vestibulum sodales leo id volutpat interdum.
-
-Nulla a tristique dui, ac tincidunt dui. Nunc eu odio eget justo dictum varius. In nec nunc sed nulla malesuada bibendum. Sed auctor non ipsum id vestibulum. Aliquam nec libero eu quam scelerisque tincidunt. Sed vel est a lorem pharetra accumsan. Sed euismod risus nec libero ultrices, id bibendum odio tempor. Phasellus eu est sit amet urna hendrerit semper.
+Просто текст.
